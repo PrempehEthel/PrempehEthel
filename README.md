@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Ethel
+- 🔭 I’m currently working on building small projects using Javascript
+- 🌱 I’m currently learning Javascript
+- 👯 I’m looking to collaborate on anything fun but productive 
 <!--
 **PrempehEthel/PrempehEthel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
